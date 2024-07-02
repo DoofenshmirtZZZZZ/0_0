@@ -1,0 +1,22 @@
+C:\Users\mytia\source\repos\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\mytia\source\repos\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\mytia\source\repos\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.Form1.resources
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.pdb
+C:\Users\mytia\source\repos\Queue\Queue\obj\Debug\Queue.Form2.resources
+C:\Users\dasha\Documents\4 семак\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\dasha\Documents\4 семак\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\dasha\Documents\4 семак\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.Form1.resources
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.Form2.resources
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\dasha\Documents\4 семак\Queue\Queue\obj\Debug\Queue.pdb

@@ -1,0 +1,39 @@
+c:\users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\titov\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\HP\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Emilek\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\dasha\Documents\4 семак\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

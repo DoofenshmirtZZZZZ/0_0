@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7+80CiGas4gD+nsIvQsVuFpd5oibsWtRW7z4cqyaCEadk52Tq1dsDuA+wPRYCJ4dzL3lPF2ul9EUfpiSKKVyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasha\\Documents\\4 семак\\САОД\\5_Plenty\\5_Plenty\\5_Plenty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

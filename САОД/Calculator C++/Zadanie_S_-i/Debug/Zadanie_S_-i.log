@@ -1,0 +1,4 @@
+﻿  Zadanie_S_-i.cpp
+C:\Users\johng\source\repos\SAOD\Zadanie_S_-i\Zadanie_S_-i\Zadanie_S_-i.cpp(16,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\johng\source\repos\SAOD\Zadanie_S_-i\Zadanie_S_-i\Zadanie_S_-i.cpp(21,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Zadanie_S_-i.vcxproj -> C:\Users\johng\source\repos\SAOD\Zadanie_S_-i\Debug\Zadanie_S_-i.exe

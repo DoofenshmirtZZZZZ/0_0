@@ -1,0 +1,8 @@
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.csproj.AssemblyReference.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.App.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.FormReg.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.LoginForm.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.Properties.Resources.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.csproj.GenerateResource.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Release\NewDew.csproj.CoreCompileInputs.cache

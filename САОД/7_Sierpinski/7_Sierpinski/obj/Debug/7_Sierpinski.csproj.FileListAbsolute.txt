@@ -1,0 +1,10 @@
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\bin\Debug\7_Sierpinski.exe.config
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\bin\Debug\7_Sierpinski.exe
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\bin\Debug\7_Sierpinski.pdb
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\7_Sierpinski.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\_7_Sierpinski.Form1.resources
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\_7_Sierpinski.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\7_Sierpinski.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\7_Sierpinski.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\7_Sierpinski.exe
+C:\Users\dasha\Documents\4 семак\САОД\7_Sierpinski\7_Sierpinski\obj\Debug\7_Sierpinski.pdb

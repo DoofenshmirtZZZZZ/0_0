@@ -1,0 +1,7 @@
+﻿  BoxPlotInfo.cpp
+C:\Users\dasha\Downloads\САОД\BoxPlotInfo\BoxPlotInfo\BoxPlotInfo.cpp(38,35): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  BoxPlotInfo.vcxproj -> C:\Users\dasha\Downloads\САОД\BoxPlotInfo\x64\Debug\BoxPlotInfo.exe

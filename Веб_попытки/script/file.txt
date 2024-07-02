@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="file.css">
+</head>
+<body>
+    <form action="javascript:reg()" method="GET" name="registr">
+        <label for="login"> Логин
+            <input type="text" name = "login" id="login" placeholder="example" required>
+        </label> <br>
+        <br>
+        <label for="password"> Пароль
+            <input type="password" name = "password" id="password" placeholder="example" required>
+        </label> <br>
+        <br>
+        <label for="email"> Почту
+            <input type="email" name = "email" id="email" placeholder="example@example" required>
+        </label> <br>
+        <br>
+        <label for="mailing"> Подписаться на рассылку
+            <input type="checkbox" name = "mailing" id="mailing" value="mailing_true" checked>
+        </label> <br>
+        <br>
+        Пол <br>
+        <label for="sex_m"> Мужской
+            <input type="radio" id="man" name = "sex" checked>
+        </label> <br>
+        <label for="sex_w"> Женский
+            <input type="radio" id="woman" name = "sex" checked>
+        </label> <br>
+        <br>
+        <select name="city">  Укажите свой город
+            <option value="Dubna"> Дубна </option>
+            <option value="Moscow"> Москва </option>
+            <option value="Vladivistok"> Санкт-Питербург </option>
+            <option value="Ekaterinburg"> Сочи </option>
+        </select> <br>
+        <br>
+        <input type="submit" onclick="start()">
+    </form>
+    <div id="lol"></div>
+    <script>
+        function start()
+        {
+            
+
+            login = document.registr.login.value;       
+            password = document.registr.password.value;
+            email = document.registr.email.value;
+            console.log(login + "  " + password + "  " + email);
+
+            var mailing_console=false;
+            if (document.registr.mailing.checked){mailing_console = true;}
+            console.log(mailing_console);
+
+            for (i = 0; i < document.registr.sex.length; i++)
+            {
+                if (document.registr.sex[i].checked)
+                {
+                    sex = document.registr.sex[i].id;
+                }
+            }
+            console.log(sex);
+
+            
+            var city_en;
+            var city_ru;
+            var index;
+            index = document.registr.city.selectedIndex;
+            city_en = document.registr.city[index].value;
+            city_ru = document.registr.city[index].text;
+            console.log(index + "  " + city_en + "   " + city_ru)
+
+            if (sex == "man") text = "<h3>Уважаемый "
+                else text = "<h3>Уважаемая ";
+            text = text + login + ", проверьте введённые данные:</h3>";
+            text = text + "Пароль: " + password + "<br>";
+            if (mailing_console)
+                text = text + "Информация будет отправлена на ваш адрес: " + email + "<br>";
+            text = text + "Будем рады видеть вас в нашем офисе в " + city_ru;
+
+
+            
+           document.getElementById("lol").innerHTML= text;
+           
+          //  document.body.append(div);
+         //   div.innerHTML =  text;
+        }
+    </script>
+</body>
+<footer>
+
+</footer>
+</html>

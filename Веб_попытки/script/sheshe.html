@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html - формы</title>
+    <link rel="stylesheet" href="css/style_.css">
+    <script src="script.jr"></script>
+    <script>
+        document.write("Hi! In head");
+    </script>
+</head>
+<body>
+    
+    <form action="javascript:reg()" method="GET" name="registr">
+        <label for="login">Введите логин
+            <input type="text" id="login" name="login" placeholder="login" size="4" >
+        </label><br>
+        <label for="password">Введите пароль
+            <input type="password" id="password" name="pas" size="4" >
+        </label><br>
+        <label for="email">Введите адрес
+            <input type="email" id="email" name="email" size="7" required>
+        </label><br> 
+
+        <label for="mailing"> Подписаться на рассылку
+            <input type="checkbox" ib="mailing" name="mailing" value="mailing_true" checked>
+        </label><br>
+        
+        Пол<br>
+        <label for="gender_m"><input type="radio" id="gender_m" name="gender" value="m" checked>Мужской</label><br>
+        <label for="gender_w"><input type="radio" id="gender_w" name="gender" value="w" checked>Женский</label><br>
+		<script>
+			// обработка radio 
+            for (i=0;i<document.registr.gender.length; i++){
+                if (document.register.gender[i].checked){
+                    gender=documents.registr.gender[i].value;}
+                }
+            console. log("Данные из переключателей: "+gender);
+		</script>
+        <select name="sity">Укажите город
+            <option value="Dubna">Дубна</option>
+            <option value="Moskva">Москва</option>
+            <option value="Saratov">Саратов</option>
+        </select>
+		<script>
+            // обработка select (option)
+            var sity_en;
+            var sity_ru;
+            var index;
+            index=document.registr.sity.selectedIndex;
+            sity_en=document.registr.sity[index].value;
+            sity_ru=document.registr.sity[index].text;
+            console.log("Данные из выпадающего списка: " + index + " "+ sity_en + " "+ sity_ru);
+			
+        </script>
+        <br>
+		<button for="btn" type="submit" class = "btn" name="submit">Отправить данные
+			<script>
+				// обработка button
+			if(gender=="m") text="<h3>Уважаемый ";
+				else text="Уважаемая "
+				text=text+ login+ ", проверьте введенные данные:</h3>";
+				text=text+ "Пароль: "+ pass + "<br>";
+			if (mailing)
+				text=text+ "Информация будет отправлена на адрес: "+ email + "<br>";
+			text=text+"Будем рады видеть Вас в нашем офисе в "+ city_ru;
+			
+			document.getElementById("render_registr").innerHTML=text;
+			</script>
+		</button>
+		<button id="render_birthday">Указать дату рождения</button>
+		<br>
+		<div id="form_birthday"></div>
+        
+		<script>
+			document.getElementById("render_birthday").onclick=function(){
+				var months = ["январь", "Февраль", "Март", "апрель"];
+				form_birthday="<form> <select name='day'>";
+				for(i=1; i<31; i++)
+					form_birthday=from_birthday+"<option value="+i+">"+ i+"</option>";
+				form_birthday=from_birthday+"</select><br><select name='month'>";
+				for(i=0; i<months.length; i++)
+					form_birthday=from_birthday+"<option value="+i+">"+ months[i]+"</option>";
+				form_birthday = from_birthday+"</select>"
+				document.getElementById("form_birthday").innerHTML=form_birthday;
+			}
+			</script>
+    </form>
+</body>
+</html>

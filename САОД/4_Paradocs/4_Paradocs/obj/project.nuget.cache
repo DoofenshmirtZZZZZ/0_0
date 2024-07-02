@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+bAZwMgqVfp3bE3EAlv0FdQvevJGrZ4uRPNANsxcotFhJum906zoVFxBFyGO3YNtvC9Vl9nWdLkuDjWsqFqHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasha\\Documents\\4 семак\\САОД\\4_Paradocs\\4_Paradocs\\4_Paradocs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

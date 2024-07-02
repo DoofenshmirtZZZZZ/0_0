@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIQcWw3vgdHoCOJxWeWtIPGKEMVkUuiQtQrknvYMBqbNtEYL0gQksTVO3UA/ltB3AuWNyzF0pWWSbp1rgToOuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasha\\Documents\\4 семак\\САОД\\6_Uzniki\\6_Uzniki\\6_Uzniki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

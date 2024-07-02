@@ -1,0 +1,5 @@
+﻿  RefStrings.cpp
+C:\Users\dasha\Downloads\САОД\RefStrings\Str.h(14,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dasha\Downloads\САОД\RefStrings\Str.h(15,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dasha\Downloads\САОД\RefStrings\Str.h(39,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  RefStrings.vcxproj -> C:\Users\dasha\Downloads\САОД\RefStrings\x64\Debug\RefStrings.exe

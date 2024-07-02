@@ -1,0 +1,4 @@
+﻿  OH.cpp
+C:\Users\kulev\OneDrive\Desktop\OH\OH\BinaryHeap.h(38,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kulev\OneDrive\Desktop\OH\OH\BinaryHeap.h(39,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OH.vcxproj -> C:\Users\kulev\OneDrive\Desktop\OH\x64\Debug\OH.exe

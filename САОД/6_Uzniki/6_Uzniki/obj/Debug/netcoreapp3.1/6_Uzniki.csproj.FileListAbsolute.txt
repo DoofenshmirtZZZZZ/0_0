@@ -1,0 +1,13 @@
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.exe
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.deps.json
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.runtimeconfig.json
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.runtimeconfig.dev.json
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.dll
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\bin\Debug\netcoreapp3.1\6_Uzniki.pdb
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.AssemblyInfoInputs.cache
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.AssemblyInfo.cs
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.dll
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.pdb
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.genruntimeconfig.cache
+C:\Users\dasha\Documents\4 семак\САОД\6_Uzniki\6_Uzniki\obj\Debug\netcoreapp3.1\6_Uzniki.csprojAssemblyReference.cache

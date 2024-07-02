@@ -1,0 +1,10 @@
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\3_List.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\_3_List.Form1.resources
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\_3_List.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\3_List.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\3_List.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\bin\Debug\3_List.exe.config
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\bin\Debug\3_List.exe
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\bin\Debug\3_List.pdb
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\3_List.exe
+C:\Users\dasha\Documents\4 семак\САОД\3_List\3_List\obj\Debug\3_List.pdb

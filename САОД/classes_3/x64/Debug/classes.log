@@ -1,0 +1,3 @@
+﻿  classes.cpp
+C:\Users\johng\OneDrive\Рабочий стол\classes\Complex.h(59): warning C4715: Arg: значение возвращается не при всех путях выполнения
+  classes.vcxproj -> C:\Users\johng\OneDrive\Рабочий стол\classes\x64\Debug\classes.exe

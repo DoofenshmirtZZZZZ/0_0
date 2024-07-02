@@ -1,0 +1,17 @@
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\bin\Debug\Ohio.exe.config
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\bin\Debug\Ohio.exe
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\bin\Debug\Ohio.pdb
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.Form1.resources
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.exe
+C:\Users\dasha\Documents\4 семак\Ohio\Ohio\obj\Debug\Ohio.pdb
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\obj\Debug\Ohio.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\EPPlus.dll
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\EPPlus.xml
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dasha\Documents\4 семак\ohio\Ohio\obj\Debug\Ohio.csproj.CopyComplete

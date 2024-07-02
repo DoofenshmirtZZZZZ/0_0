@@ -1,0 +1,40 @@
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\NewDew.exe.config
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\NewDew.exe
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\NewDew.pdb
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.csproj.AssemblyReference.cache
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.LoginForm.resources
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.Properties.Resources.resources
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.csproj.GenerateResource.cache
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.csproj.CoreCompileInputs.cache
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.exe
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.pdb
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\MySql.Data.dll
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\System.Memory.dll
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\System.Buffers.dll
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\MySql.Data.xml
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.csproj.CopyComplete
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.App.resources
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\Database1.mdf
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\bin\Debug\Database1_log.ldf
+C:\Users\dasha\OneDrive\Desktop\NewDew\NewDew\obj\Debug\NewDew.FormReg.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\NewDew.exe.config
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\NewDew.exe
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\NewDew.pdb
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\System.Memory.dll
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\bin\Debug\System.Buffers.dll
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.csproj.AssemblyReference.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.App.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.FormReg.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.LoginForm.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.Properties.Resources.resources
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.csproj.GenerateResource.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.csproj.CoreCompileInputs.cache
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.csproj.CopyComplete
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.exe
+C:\Users\dasha\OneDrive\Документы\6 семестр\NewDew\NewDew\obj\Debug\NewDew.pdb

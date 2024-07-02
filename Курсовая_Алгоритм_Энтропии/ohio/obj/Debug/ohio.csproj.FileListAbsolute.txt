@@ -1,0 +1,11 @@
+C:\Users\dasha\Documents\4 семак\ohio\bin\Debug\ohio.exe.config
+C:\Users\dasha\Documents\4 семак\ohio\bin\Debug\ohio.exe
+C:\Users\dasha\Documents\4 семак\ohio\bin\Debug\ohio.pdb
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.Properties.Resources.resources
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.exe
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.pdb
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.Form1.resources
+C:\Users\dasha\Documents\4 семак\ohio\obj\Debug\ohio.Form_General.resources
