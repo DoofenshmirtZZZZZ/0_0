@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3Yx23cQazYRtMqm3gSQX9CfsUiPdTd4o6TMyGZ7f+D8plNJrWsWuq2VUeYB4wUQEB3CBRYPz2hukj76ilLg2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasha\\Documents\\3 семак\\прога\\Complex_numbers\\Complex_numbers\\Complex_numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

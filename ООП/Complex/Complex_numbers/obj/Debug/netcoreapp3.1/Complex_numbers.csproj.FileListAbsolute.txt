@@ -1,0 +1,37 @@
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.exe
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.deps.json
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.json
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.dev.json
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.csprojAssemblyReference.cache
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfoInputs.cache
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfo.cs
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\TAS.20\source\repos\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.exe
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.deps.json
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.json
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.dev.json
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.csprojAssemblyReference.cache
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfoInputs.cache
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfo.cs
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\dasha\Desktop\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.genruntimeconfig.cache
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.exe
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.deps.json
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.json
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.runtimeconfig.dev.json
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\bin\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfoInputs.cache
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.AssemblyInfo.cs
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.dll
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.pdb
+C:\Users\dasha\Documents\3 семак\прога\Complex_numbers\Complex_numbers\obj\Debug\netcoreapp3.1\Complex_numbers.genruntimeconfig.cache

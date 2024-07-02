@@ -1,0 +1,30 @@
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe.config
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.pdb
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csprojAssemblyReference.cache
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Form1.resources
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Properties.Resources.resources
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.GenerateResource.cache
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.CoreCompileInputs.cache
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.exe
+C:\Users\johng\source\repos\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.pdb
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe.config
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.pdb
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csprojAssemblyReference.cache
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Form1.resources
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Properties.Resources.resources
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.GenerateResource.cache
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.exe
+C:\Users\dasha\Downloads\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.pdb
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.exe
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.pdb
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe.config
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.exe
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\bin\Debug\Cockroach_Race.pdb
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Form1.resources
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.Properties.Resources.resources
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\3 семак\ООП\Cockroach_Race\Cockroach_Race\Cockroach_Race\obj\Debug\Cockroach_Race.csproj.CoreCompileInputs.cache

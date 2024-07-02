@@ -1,0 +1,30 @@
+C:\Users\PanovaAny\source\repos\сем5\сем5\bin\Debug\сем5.exe.config
+C:\Users\PanovaAny\source\repos\сем5\сем5\bin\Debug\сем5.exe
+C:\Users\PanovaAny\source\repos\сем5\сем5\bin\Debug\сем5.pdb
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.csproj.AssemblyReference.cache
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.Form1.resources
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.Properties.Resources.resources
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.csproj.GenerateResource.cache
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.csproj.CoreCompileInputs.cache
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.exe
+C:\Users\PanovaAny\source\repos\сем5\сем5\obj\Debug\сем5.pdb
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\bin\Debug\сем5.exe.config
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\bin\Debug\сем5.exe
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\bin\Debug\сем5.pdb
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.Form1.resources
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.Properties.Resources.resources
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.exe
+C:\Users\dasha\Documents\3 семак\ООП\сем5\сем5\obj\Debug\сем5.pdb
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\bin\Debug\сем5.exe.config
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\bin\Debug\сем5.exe
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\bin\Debug\сем5.pdb
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.Form1.resources
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.Properties.Resources.resources
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.csproj.GenerateResource.cache
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.exe
+C:\Users\dasha\Documents\3 семак\ООП\Zoo\сем5\obj\Debug\сем5.pdb

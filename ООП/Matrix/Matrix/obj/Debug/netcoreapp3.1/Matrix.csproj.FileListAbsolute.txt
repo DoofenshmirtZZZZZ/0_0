@@ -1,0 +1,48 @@
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\TAS.20\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\TAS.20\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\TAS.20\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\TAS.20\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\TAS.20\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\TAS.20\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+E:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+E:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+D:\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+D:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+D:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+D:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+D:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+D:\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\dasha\Documents\3 семак\прога\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
